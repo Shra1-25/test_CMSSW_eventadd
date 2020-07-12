@@ -1,5 +1,5 @@
-#include "Analysis/MyStuff/interface/MyStuff.h"
-#include "Analysis/MyStuff/interface/MyOtherStuff.h"
+#include "MyStuff/interface/MyStuff.h"
+//#include "Analysis/MyStuff/interface/MyOtherStuff.h"
 #include <vector>
 #include "DataFormats/Common/interface/Wrapper.h"
 
