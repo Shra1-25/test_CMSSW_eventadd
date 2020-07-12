@@ -1,6 +1,6 @@
-<use name=DataFormats/Common>
-<use name=rootrflx>
+<use name="DataFormats/Common"/>
+<use name="rootrflx"/>
 <export>
-  <lib name=AnalysisMyStuff>
-  <use name=DataFormats/Common>
+  <lib name="AnalysisMyStuff"/>
+  <use name="DataFormats/Common"/>
 </export>
