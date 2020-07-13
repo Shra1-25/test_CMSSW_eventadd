@@ -30,7 +30,7 @@ class MyStuff
    public:
       MyStuff();
       virtual ~MyStuff();
-      int x;
+      
       // ---------- const member functions ---------------------
 
       // ---------- static member functions --------------------
@@ -39,7 +39,7 @@ class MyStuff
 
    private:
       MyStuff(const MyStuff&); // stop default
-
+      int x;
       //const MyStuff& operator=(const MyStuff&); // stop default
 
       // ---------- member data --------------------------------
