@@ -28,7 +28,9 @@ class MyStuff
 {
 
    public:
-      MyStuff();
+      explicit MyStuff(int v):value_(v) { }
+      MyStuff():value_(0) { }
+      int value_;
       virtual ~MyStuff();
       
       // ---------- const member functions ---------------------
