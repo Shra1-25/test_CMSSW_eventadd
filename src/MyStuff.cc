@@ -14,8 +14,8 @@
 
 // user include files
 #include "StuffProd/MyStuff/interface/MyStuff.h"
-#include <iostream>
-using namespace std;
+//#include <iostream>
+//using namespace std;
 
 //
 // constants, enums and typedefs
@@ -31,7 +31,7 @@ using namespace std;
 MyStuff::MyStuff()
 {
   x=100;
-  std::cout<<" >> x is: "<<x<<std::endl;
+  //std::cout<<" >> x is: "<<x<<std::endl;
 }
 
 // MyStuff::MyStuff(const MyStuff& rhs)
