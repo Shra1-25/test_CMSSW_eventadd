@@ -1,4 +1,4 @@
-#include "MyStuff/interface/MyStuff.h"
+#include "StuffProd/MyStuff/interface/MyStuff.h"
 //#include "Analysis/MyStuff/interface/MyOtherStuff.h"
 #include <vector>
 #include "DataFormats/Common/interface/Wrapper.h"
