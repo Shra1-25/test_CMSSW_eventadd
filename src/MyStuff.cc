@@ -30,9 +30,7 @@
 //
 MyStuff::MyStuff()
 {
-  explicit MyStuff(int v):value_(v) { }
-  MyStuff():value_(0) { }
-  int value_;
+  
   //std::cout<<" >> x is: "<<x<<std::endl;
 }
 
