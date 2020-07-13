@@ -7,7 +7,7 @@
 
 namespace { namespace {
   //say which template classes should have dictionaries
-  edm::Wrapper<MyStuff> MyStuff;
-  edm::Wrapper<std::vector<MyStuff> > MyStuff_vec;
+  edm::Wrapper<MyStuff> MyStuff_template;
+  edm::Wrapper<std::vector<MyStuff> > MyStuff_vec_template;
   //edm::Wrapper<std::vector<MyOtherStuff> > dummy2;
 } }
