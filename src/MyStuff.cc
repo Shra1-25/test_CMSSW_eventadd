@@ -28,11 +28,11 @@
 //
 // constructors and destructor
 //
-MyStuff::MyStuff()
+/*MyStuff::MyStuff()
 {
   
   //std::cout<<" >> x is: "<<x<<std::endl;
-}
+}*/
 
 // MyStuff::MyStuff(const MyStuff& rhs)
 // {
