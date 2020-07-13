@@ -30,7 +30,7 @@ class MyStuff
    public:
       MyStuff();
       virtual ~MyStuff();
-
+      int x;
       // ---------- const member functions ---------------------
 
       // ---------- static member functions --------------------
