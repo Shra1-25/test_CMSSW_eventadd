@@ -14,6 +14,7 @@
 
 // user include files
 #include "StuffProd/MyStuff/interface/MyStuff.h"
+#include <iostream>
 using namespace std;
 
 //
