@@ -3,7 +3,7 @@
 //#include "StuffProd/DataFormats/MyStuff/interface/SampleProd.h"
 #include <vector>
 #include "DataFormats/Common/interface/Wrapper.h"
-using namespace std;
+//using namespace std;
 
 namespace { namespace {
   //say which template classes should have dictionaries
