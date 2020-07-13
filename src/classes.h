@@ -1,4 +1,4 @@
-#include "StuffProducer/MyStuff/interface/MyStuff.h"
+#include "StuffProducer/MyStuff/interface/trial1.h"
 //#include "Analysis/MyStuff/interface/MyOtherStuff.h"
 //#include "StuffProd/DataFormats/MyStuff/interface/SampleProd.h"
 #include <vector>
@@ -7,7 +7,7 @@
 
 namespace { namespace {
   //say which template classes should have dictionaries
-  edm::Wrapper<MyStuff> MyStuff_template;
-  edm::Wrapper<std::vector<MyStuff> > MyStuff_vec_template;
+  edm::Wrapper<MyStuff> trial1_template;
+  edm::Wrapper<std::vector<MyStuff> > trial1_vec_template;
   //edm::Wrapper<std::vector<MyOtherStuff> > dummy2;
 } }
