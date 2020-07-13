@@ -29,6 +29,8 @@
 //
 MyStuff::MyStuff()
 {
+  x=100;
+  std::cout<<" >> x is: "<<x<<std::endl;
 }
 
 // MyStuff::MyStuff(const MyStuff& rhs)
