@@ -14,7 +14,7 @@
 
 // user include files
 #include "MyStuff.h"
-
+using namespace std;
 
 //
 // constants, enums and typedefs
