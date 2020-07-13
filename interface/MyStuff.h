@@ -45,5 +45,8 @@ class MyStuff
 
 };
 
+// this is our new product, it is simply a 
+// collection of SampleProd held in an std::vector
+typedef std::vector<SampleProd> SampleCollection;
 
 #endif
