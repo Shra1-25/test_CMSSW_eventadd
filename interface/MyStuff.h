@@ -39,7 +39,6 @@ class MyStuff
 
    private:
       MyStuff(const MyStuff&); // stop default
-      int x;
       //const MyStuff& operator=(const MyStuff&); // stop default
 
       // ---------- member data --------------------------------
