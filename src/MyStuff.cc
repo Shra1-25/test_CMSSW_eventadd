@@ -13,7 +13,7 @@
 // system include files
 
 // user include files
-#include "StuffProd/MyStuff/interface/MyStuff.h"
+#include "StuffProducer/MyStuff/interface/MyStuff.h"
 //#include <iostream>
 //using namespace std;
 
