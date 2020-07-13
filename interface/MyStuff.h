@@ -40,7 +40,7 @@ class MyStuff
    private:
       MyStuff(const MyStuff&); // stop default
 
-      const MyStuff& operator=(const MyStuff&); // stop default
+      //const MyStuff& operator=(const MyStuff&); // stop default
 
       // ---------- member data --------------------------------
 
