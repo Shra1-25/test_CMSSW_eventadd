@@ -1,5 +1,6 @@
 #ifndef MyStuff_interface_MyStuff_h
 #define MyStuff_interface_MyStuff_h
+#include <vector>
 // -*- C++ -*-
 //
 // Package:     MyStuff/interface
