@@ -41,7 +41,7 @@ class MyStuff
       // ---------- member functions ---------------------------
 
    private:
-      MyStuff(const MyStuff&); // stop default
+      //MyStuff(const MyStuff&); // stop default
       //const MyStuff& operator=(const MyStuff&); // stop default
 
       // ---------- member data --------------------------------
