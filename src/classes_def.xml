@@ -1,4 +1,7 @@
 <lcgdict>
   <class pattern="edm::Wrapper<*>"/>
   <class name="MyStuff"/>
+  <class name="SampleProd"/>
+  <class name="std::vector<SampleProd>"/>
+  <class name="edm::Wrapper<std::vector<SampleProd> >"/>
 </lcgdict>
